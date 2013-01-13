@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var Glob = require('glob').Glob
 var fs = require('fs')
 var path = require('path')
