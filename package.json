@@ -1,5 +1,5 @@
 {
-  "name": "lumberjack",
+  "name": "primo-lumber",
   "version": "1.0.0",
   "description": "Encode a pile of files into base64",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/robashton/lumberjack.git"
+    "url": "git://github.com/robashton/primo-lumber.git"
   },
   "keywords": [
     "base64",
