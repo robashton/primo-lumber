@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Encode a pile of files into base64",
   "main": "index.js",
+  "bin": "./bin/lumber",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
